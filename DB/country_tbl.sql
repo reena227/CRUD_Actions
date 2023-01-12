@@ -1,0 +1,3 @@
+CREATE TABLE `userdb`.`country_tbl` (
+  `ID` INT NOT NULL,
+  `COUNTRYNAME` VARCHAR(45) NOT NULL);
